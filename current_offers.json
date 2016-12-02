@@ -1,37 +1,37 @@
 {
   "current_offers": [
     {
+      "fund_code": "auf",
+      "offer_type": "offer",
+      "cover_types": "2",
+      "start_date": "2016-12-01",
+      "end_date": "2016-12-31",
+      "name": "",
+      "short_description": "Join Australian Unity on a hospital and extras cover and you’ll get a $100 for singles and $200 for couples and families Visa gift card.",
+      "full_description" : "",
+      "image_url": "",
+      "terms": "<ul>\n\t<li>\n\t\tThis offer only applies to people who purchase Australian Unity hospital and extras cover through Members Own Health Fund between 1 December 2016 and 31 December 2016.\n\t</li>\n\t<li>\n\t\tAfter complying with paragraph 1 above, the purchaser may receive one $100 Gift Card for any single cover purchased or one $200 Gift Card for any family cover purchased. Limit of one gift card per customer. \n\t</li>\n\t<li>\n\t\tOffer only available to new members being those who have not held Australian Unity health cover within the last 6 months. This offer is not available to new members who take our Hospital only cover, Extras only cover or Overseas Visitors Cover. This offer is not available to Australian Unity staff or their immediate families.\n\t</li>\n\t<li>\n\t\tThis offer is not available in conjunction with any other retail offer or promotion being run by Australian Unity at the same time.\n\t</li>\n\t<li>\n\t\tThis offer can be altered or withdrawn at any time by Australian Unity. Australian Unity reserves the right to change these offer conditions at any time without notice. Australian Unity may request further information from any purchaser in its discretion.\n\t</li>\n\t<li>\n\t\tAll Gift Cards are Universal Gift Card Visa gift cards, issued by Heritage Bank Limited ABN 32 087 652 024 AFSL / Australian Credit Licence 240984, preloaded with either AU$100 or AU$200 in cash only (as applicable). All gift cards will be delivered by post. Australian Unity will not be held responsible for any damaged, undelivered, lost or stolen Gift Cards and no replacement will be provided. Allow 6-8 weeks after the purchase date of the new policy for delivery of the Gift Card. Gift Cards are subject to the terms and conditions that appear on the reverse of the Gift Card letter.\n\t</li>\n\t<li>\n\t\tThis offer is made and executed by Australian Unity.\n\t</li>\n</ul>"
+    },
+    {
       "fund_code": "frank",
       "offer_type": "offer",
       "cover_types": "2",
-      "start_date": "2016-11-01",
-      "end_date": "2016-11-30",
+      "start_date": "2016-12-01",
+      "end_date": "2016-12-31",
       "name": "",
-      "short_description": "Join Frank on a combined level of cover and all 2 and 6 month extras waiting periods are waived.",
+      "short_description": "Join on a combined cover and get 1 month free.",
       "full_description" : "",
       "image_url": "",
-      "terms": "<p>Available to new members until 30 November 2016.</p>\n<p>This offer is made and executed by Frank Health Insurance.</p>"
-    },
-    {
-      "fund_code": "gmh",
-      "offer_type": "offer",
-      "cover_types": "2",
-      "start_date": "2016-11-01",
-      "end_date": "2016-11-30",
-      "name": "",
-      "short_description": "Join GMHBA on combined covers prior November 30th and get a gift card. $100 for singles, $200 for families.",
-      "full_description" : "",
-      "image_url": "",
-      "terms": "<p>*For new members on direct debit, must pay first month to receive gift card. $200 gift card for families, couples and single parent memberships, $100 for singles. Gift card will be issued within 14 days from receipt of first payment. If the policy is cancelled within 60 days of joining and the gift card activated, the value of the gift card will be deducted from your premium refund. Not available in conjunction with any other offer.</p>\n\n<p>This offer is made and executed by GMHBA Limited.</p>"
+      "terms": "<p>Offer available to new members only. Pay the first month and then get 1 month free.</p>\n<p>This offer is made and executed by Frank Health Insurance.</p>"
     },
     {
       "fund_code": "hbf",
       "offer_type": "offer",
       "cover_types": "1,2",
-      "start_date": "2016-11-01",
-      "end_date": "2016-11-30",
+      "start_date": "2016-12-01",
+      "end_date": "2016-12-31",
       "name": "",
-      "short_description": "Join HBF on combined cover or extras only by 30 November and HBF will waive all 2 month waiting periods.",
+      "short_description": "Join HBF on combined cover or extras only and HBF will waive all 2 month waiting periods.",
       "full_description" : "",
       "image_url": "",
       "terms": "<p>Available on combined covers and on extras only.</p>\n<p>This offer is made and executed by HBF.</p>"
@@ -40,13 +40,13 @@
       "fund_code": "lhm",
       "offer_type": "offer",
       "cover_types": "0,2",
-      "start_date": "2016-11-01",
-      "end_date": "2016-11-30",
-      "name": "",
-      "short_description": "Join Peoplecare on hospital cover or combined cover by 30 November and Peoplecare will give you a $100 gift card.",
+      "start_date": "2016-12-01",
+      "end_date": "2016-12-31",
+      "name": "Join Peoplecare on hospital cover or combined cover by 31st December and Peoplecare will give you a $100 gift card.",
+      "short_description": "",
       "full_description" : "",
       "image_url": "",
-      "terms": "<ul>\n\t<li>\n\t\tThis offer is for new members only who purchase a hospital only or hospital and extras cover.\n\t</li>\n\t<li>\n\t\tMembers who purchase Extras or Ambulance only covers are not eligible for the Gift Card.\n\t</li>\n\t<li>\n\t\tThis offer is current as at 1 September 2016, and can be altered or withdrawn at any time.\n\t</li>\n\t<li>\n\t\tPeoplecare reserves the right to change the offer conditions at any time without notice.\n\t</li>\n\t<li>\n\t\tThis offer is applied to purchases by new members either through the Peoplecare website/call centre or Members Own Health Funds. It is not available through any other intermediary.\n\t</li>\n\t<li>\n\t\tThis offer is not available with any other promotional offers being run by Peoplecare at the same time. \n\t</li>\n\t<li>\n\t\tAll Gift Cards will be delivered by post to the address nominated by the member. Peoplecare are not liable for any damaged, undelivered, lost or stolen Gift Cards and no replacement gift cards will be provided in the event of damage to, non-delivery of, or theft of a Gift Card. Allow 8-9 weeks after the purchase date of the new policy for delivery of the Gift Card.\n\t</li>\n\t<li>\n\t\tGift cards are subject to the terms and conditions of the gift card issuer. These conditions can be viewed at <a href=\"https://rewardscometrue.com.au/\">https://rewardscometrue.com.au/</a>.\n\t</li>\n\t<li>\n\t\tThis offer is made and executed by Peoplecare.\n\t</li>\n</ul>"
+      "terms": "<ul>\n\t<li>\n\t\tThis offer is for new members only who purchase a hospital only or hospital and extras cover.\n\t</li>\n\t<li>\n\t\tMembers who purchase Extras or Ambulance only covers are not eligible for the Gift Card.\n\t</li>\n\t<li>\n\t\tThis offer is current as at 1 September 2016, and can be altered or withdrawn at any time. Peoplecare reserves the right to change the offer conditions at any time without notice.\n\t</li>\n\t<li>\n\t\tThis offer is applied to purchases by new members either through the Peoplecare website/call centre or Members Own Health Funds. It is not available through any other intermediary.\n\t</li>\n\t<li>\n\tThis offer is not available with any other promotional offers being run by Peoplecare at the same time. \n\t</li>\n\t<li>\n\t\tAll Gift Cards will be delivered by post to the address nominated by the member. Peoplecare are not liable for any damaged, undelivered, lost or stolen Gift Cards and no replacement gift cards will be provided in the event of damage to, non-delivery of, or theft of a Gift Card. Allow 8-9 weeks after the purchase date of the new policy for delivery of the Gift Card.\n\t</li>\n\t<li>\n\t\tGift cards are subject to the terms and conditions of the gift card issuer. These conditions can be viewed at <a href=\"https://rewardscometrue.com.au/\">https://rewardscometrue.com.au/</a>.\n\t</li>\n\t<li>\n\t\tThis offer is made and executed by Peoplecare.\n\t</li>\n</ul>"
     },
     {
       "fund_code": "ntf",
@@ -55,7 +55,7 @@
       "start_date": "2016-11-01",
       "end_date": "2016-12-23",
       "name": "",
-      "short_description": "Join Teachers Health on combined cover before December 23 and Teachers Health will give you 6 weeks free or 1 month free and waive 2 & 6 months waits",
+      "short_description": "Join Teachers Health on combined cover before December 23 and Teachers Health will give you 6 weeks free or 1 month free and waive 2 & 6 months waits.",
       "full_description" : "",
       "image_url": "",
       "terms": "<p>\n\t<strong>6 weeks free T&C’s</strong>\n</p>\n<ol>\n\t<li>Offer commences 12.00am, Tuesday 1 November 2016 and closes 11.59pm (AEDT), Friday 23 December 2016 and may be extended. </li>\n\t<li>This offer is only available to new members who satisfy the eligibility criteria of Teachers Health Fund, whose membership application is received by Teachers Health Fund from 1 November 2016 and closes 11.59pm (AEDT), 23 December 2016. </li>\n\t<li>The new member must select Hospital and Extras cover, or a combined cover, in order to be eligible to receive this offer. </li>\n\t<li>The new member must provide the promotion code “SIX” when joining online, over the phone or with a Business Development officer. </li>\n\t<li>The new member must select a Direct Debit payment plan.</li>\n\t<li>Six (6) weeks free cover is applied to the second month of the new membership, upon successful receipt of the new member’s first contribution payment.</li>\n\t<li>The offer does not apply to stand-alone Hospital, Extras or Ambulance only policies.</li>\n\t<li>The offer does not apply to policy upgrades, or when a spouse or dependant is added to an existing Teachers Health Fund policy.</li>\n\t<li>This offer is only available to a new Teachers Health Fund policyholder who has not been a paying/financial member of Teachers Health Fund or UniHealth Insurance in the past four (4) months.</li>\n\t<li>The offer is not available to new members who have received an incentive offer from Teachers Health Fund or UniHealth Insurance within the last 12 months.</li>\n\t<li>Terms and conditions are subject to change without notice.</li>\n</ol>\n<p>\n\t<strong>1 month free + 2 and 6 months waits waived T&C’s</strong>\n</p>\n<ol>\n\t<li>Offer commences 12.00am, Tuesday 1 November 2016 and closes 11.59pm (AEDT), Friday 23 December 2016, and may be extended. </li>\n\t<li>This offer is only available to new members who satisfy the eligibility criteria of Teachers Health Fund, whose membership application is received by Teachers Health Fund from 1 November 2016 and closes 11.59pm (AEDT), 23 December 2016. </li>\n\t<li>The new member must select Hospital and Extras cover, or a combined cover, in order to be eligible to receive this offer. </li>\n\t<li>The new member must provide the promotion code “ONE” when joining online, over the phone or with a Business Development officer. </li>\n\t<li>The new member must select a Direct Debit payment plan. </li>\n\t<li>One (1) month’s free cover is applied to the second month of the new membership, upon successful receipt of the new member’s first contribution payment. </li>\n\t<li>Only the two and six month waiting periods on Extras services will be waived for new members, as part of this promotion. </li>\n\t<li>The offer does not apply to stand-alone Hospital, Extras or Ambulance only policies. </li>\n\t<li>The offer does not apply to policy upgrades, or when a spouse or dependant is added to an existing Teachers Health Fund policy. </li>\n\t<li>This offer is only available to a new Teachers Health Fund policyholder who has not been a paying/financial member of Teachers Health Fund or UniHealth Insurance in the past four (4) months. </li>\n\t<li>The offer is not available to new members who have received an incentive offer from Teachers Health Fund or UniHealth Insurance within the last 12 months. 12. Terms and conditions are subject to change without notice.</li>\n</ol>\n<p>\n\tThis offer is made and executed by Teachers Health.\n</p>"
