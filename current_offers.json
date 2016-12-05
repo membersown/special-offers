@@ -15,7 +15,7 @@
     {
       "fund_code": "rte",
       "offer_type": "offer",
-      "cover_types": "2",
+      "cover_types": "0,1,2",
       "start_date": "2016-11-01",
       "end_date": "2017-01-31",
       "name": "",
