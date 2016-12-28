@@ -1,6 +1,18 @@
 {
   "current_offers": [
     {
+      "fund_code": "gmh",
+      "offer_type": "offer",
+      "cover_types": "2",
+      "start_date": "2016-12-26",
+      "end_date": "2017-01-15",
+      "name": "",
+      "short_description": "Get 6 weeks free on combined covers for new members on direct debit.",
+      "full_description" : "",
+      "image_url": "",
+      "terms": "<p>Who is eligible for this offer?</p>\n<p>\n\t<ol>\n\t\t<li> For new members/memberships.</li>\n\t\t<li>This offer does not apply to current GMHBA members.</li>\n\t\t<li>Members must pay via direct debit.</li>\n\t\t<li>To be eligible for the offer, members must join combined hospital and extras cover.</li>\n\t\t<li>Bronze products are included in this offer.</li>\n\t\t<li>Members must pay their first month then will receive 6 weeks free.</li>\n\t</ol>\n</p>"
+    },
+    {
       "fund_code": "auf",
       "offer_type": "offer",
       "cover_types": "2",
