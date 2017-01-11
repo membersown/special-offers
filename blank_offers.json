@@ -1,0 +1,88 @@
+{
+  "current_offers": [
+    {
+      "fund_code": "gmh",
+      "offer_type": "offer",
+      "cover_types": "0,1,2",
+      "start_date": "2017-XX-XX",
+      "end_date": "2017-XX-XX",
+      "name": "",
+      "short_description": "",
+      "full_description" : "",
+      "image_url": "",
+      "terms": ""
+    },
+    {
+      "fund_code": "auf",
+      "offer_type": "offer",
+      "cover_types": "0,1,2",
+      "start_date": "2017-XX-XX",
+      "end_date": "2017-XX-XX",
+      "name": "",
+      "short_description": "",
+      "full_description" : "",
+      "image_url": "",
+      "terms": ""
+    },
+    {
+      "fund_code": "rte",
+      "offer_type": "offer",
+      "cover_types": "0,1,2",
+      "start_date": "2017-XX-XX",
+      "end_date": "2017-XX-XX",
+      "name": "",
+      "short_description": "",
+      "full_description" : "",
+      "image_url": "",
+      "terms": ""
+    },
+    {
+      "fund_code": "frank",
+      "offer_type": "offer",
+      "cover_types": "0,1,2",
+      "start_date": "2017-XX-XX",
+      "end_date": "2017-XX-XX",
+      "name": "",
+      "short_description": "",
+      "full_description" : "",
+      "image_url": "",
+      "terms": ""
+    },
+    {
+      "fund_code": "hbf",
+      "offer_type": "offer",
+      "cover_types": "0,1,2",
+      "start_date": "2017-XX-XX",
+      "end_date": "2017-XX-XX",
+      "name": "",
+      "short_description": "",
+      "full_description" : "",
+      "image_url": "",
+      "terms": ""
+    },
+    {
+      "fund_code": "lhm",
+      "offer_type": "offer",
+      "cover_types": "0,1,2",
+      "start_date": "2017-XX-XX",
+      "end_date": "2017-XX-XX",
+      "name": "",
+      "short_description": "",
+      "full_description" : "",
+      "image_url": "",
+      "terms": ""
+    },
+    {
+      "fund_code": "ntf",
+      "offer_type": "offer",
+      "cover_types": "0,1,2",
+      "start_date": "2017-XX-XX",
+      "end_date": "2017-XX-XX",
+      "name": "",
+      "short_description": "",
+      "full_description" : "",
+      "image_url": "",
+      "terms": ""
+    }
+  ]
+}
