@@ -1,6 +1,18 @@
 {
   "current_offers": [
     {
+      "fund_code": "auf",
+      "offer_type": "offer",
+      "cover_types": "2",
+      "start_date": "2017-05-18",
+      "end_date": "2017-06-30",
+      "name": "",
+      "short_description": "All 2 and 6 month optical waits waived on extras",
+      "full_description" : "",
+      "image_url": "",
+      "terms": "<p>\n\tAll two month and optical waiting periods are waived. Offer available to new members being those who have not previously held Australian Unity health and who purchase hospital and extras cover from Australian Unity between 18 May and 30 June 2017. Not available on Overseas Visitors Cover or for Extras only cover. Waiting periods apply to wisdom teeth extractions, periodontics and endodontics.\n</p>\n<p>\n\tThis offer is made and executed by Australian Unity.\n</p>"
+    },
+    {
       "fund_code": "frank",
       "offer_type": "offer",
       "cover_types": "2",
