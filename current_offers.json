@@ -1,6 +1,18 @@
 {
   "current_offers": [
     {
+      "fund_code": "gmh",
+      "offer_type": "offer",
+      "cover_types": "0,1,2",
+      "start_date": "2017-05-15",
+      "end_date": "2017-06-30",
+      "name": "",
+      "short_description": "Pay the 1st month get the 2nd month free",
+      "full_description" : "",
+      "image_url": "",
+      "terms": "<p>\n\t<strong>Who is eligible for the offer?</strong>\n</p>\n<ul>\n  <li>For new members/memberships.</li>\n  <li>This offer does not apply to current GMHBA members.</li>\n  <li>Members must pay via direct debit.</li>\n  <li>Bronze products are included in this offer.</li>\n  <li>Members must pay their first month.</li>\n</ul>\n<p>\n\t\tThis offer is made and executed by GMHBA.\n</p>"
+    },
+    {
       "fund_code": "auf",
       "offer_type": "offer",
       "cover_types": "2",
@@ -16,10 +28,10 @@
       "fund_code": "frank",
       "offer_type": "offer",
       "cover_types": "2",
-      "start_date": "2017-05-01",
-      "end_date": "2017-05-31",
+      "start_date": "2017-06-01",
+      "end_date": "2017-06-30",
       "name": "",
-      "short_description": "Join a Combined Hospital and Extras policy and receive a $100 Visa Gift Card",
+      "short_description": "Join a Combined, Hospital and Extras policy pay the first month and get the 2nd month free",
       "full_description" : "",
       "image_url": "",
       "terms": "<ul>\n\t<li>For new members/memberships. </li>\n\t<li>This offer does not apply to current Frank members.</li>\n\t<li>Members must pay via direct debit. </li>\n\t<li>To be eligible for the offer, members must join combined hospital and extras cover.</li>\n</ul>\n<p>\n\t\tThis offer is made and executed by Frank.\n</p>"
@@ -28,8 +40,8 @@
       "fund_code": "hbf",
       "offer_type": "offer",
       "cover_types": "1,2",
-      "start_date": "2017-05-01",
-      "end_date": "2017-05-31",
+      "start_date": "2017-06-01",
+      "end_date": "2017-06-30",
       "name": "",
       "short_description": "Join HBF on combined cover or extras only and HBF will waive all 2 month waiting periods",
       "full_description" : "",
@@ -37,23 +49,11 @@
       "terms": "<p>Available on combined covers and on extras only.</p>\n<p>This offer is made and executed by HBF.</p>"
     },
     {
-      "fund_code": "sps",
-      "offer_type": "offer",
-      "cover_types": "2",
-      "start_date": "2017-05-01",
-      "end_date": "2017-05-31",
-      "name": "",
-      "short_description": "Join a combined Hospital and Extras policy and get 2 and 6 month extras waiting periods waived",
-      "full_description" : "",
-      "image_url": "",
-      "terms": "<p>Available on combined cover only.</p>\n<p>This offer is made and executed by Health Partners.</p>"
-    },
-    {
       "fund_code": "lhm",
       "offer_type": "offer",
       "cover_types": "0,2",
-      "start_date": "2017-05-01",
-      "end_date": "2017-05-31",
+      "start_date": "2017-06-01",
+      "end_date": "2017-06-30",
       "name": "",
       "short_description": "Join Peoplecare on hospital cover or combined cover and Peoplecare will give you a $100 gift card",
       "full_description" : "",
@@ -65,12 +65,36 @@
       "offer_type": "offer",
       "cover_types": "0,1,2",
       "start_date": "2017-05-01",
-      "end_date": "2017-05-31",
+      "end_date": "2017-07-31",
       "name": "",
       "short_description": "Join any level of cover with rt Health and go into the draw to win a $750 Bunnings voucher",
       "full_description" : "",
       "image_url": "",
       "terms": "<p>Terms and Conditions for Bunnings Voucher competition</p>\n<ol>\n<li>The Promoter is Railway & Transport Health Fund Ltd (ABN 93 087 648 744) of 1 Buckingham Street, Surry Hills NSW 2010.</li>\n<li>The competition closes 30/04/17, membership must be financial on that date.</li>\n<li>By entering this competition, entrants agree to these terms and conditions (and to any other requirements set out in the promotional material). The Promoter makes no guarantee of the availability of its web services and will not be held responsible for interruption of service that may interfere with the ability to participate in the competition. </li>\n<li>Entry into this competition is automatic, subject to clause 6, and based on the entrant becoming a new member of rt health fund during the competition period and remaining a financial member of rt health fund with hospital cover or extras cover up to the date of the relevant prize draw. </li>\n<li>One entry per rt health fund policy only is permitted. The Promoter reserves the right to request the winner to provide proof of identity and age, proof of residency at the nominated address in order to claim a prize. The Promoter shall not be liable for any loss suffered or sustained (even if caused by negligence) as a result of any person entering into this competition except for any liability which cannot be excluded by law. </li>\n<li>Entry is only open to permanent residents of Australia who are aged 18 years or over. Employees of the Promoter and their immediate families are not eligible to enter. Immediate family means any of the following: spouse, ex-spouse, de-facto spouse, child or step-child (whether natural or by adoption), parent step-parent, grandparent, step-grandparent, uncle, aunt, niece, nephew, brother, sister, step- brother, step-sister or 1st cousin.\n<li>The prize is a $750 Bunnings voucher. Promoter accepts no responsibility for any variation in prize value. </li>\n<li>The winner will be drawn with computer generated selection at 10am on 02/08/17, at the premises of the Promoter and contacted within 7 days in writing. The winner’s name will be published on the Promoter’s website. </li>\n<li>All prizes in the competition will be distributed or allocated in accordance with these terms. If the prize is unclaimed after a period of three months from the date of the prize draw, an unclaimed prize draw with computer generated selection will be held at 10am on 2/05/17 at the premises of the Promoter. In such case, the original winner will be deemed to have forfeited the prize and the winner of the unclaimed prize draw will be notified in writing within 7 days of the further draw. </li>\n<li>Entrants are responsible for ensuring their correct contact and address details are provided and any updated details are notified to the Promoter. The Promoter accepts no responsibility should an entrant fail to receive a prize because of a failure to notify the Promoter of the entrant’s correct or changed contact details.\nSurry Hills, 06/09/2012 </li>\n<li>The prize as stated is non-transferable or exchangeable. No cash alternatives will be offered. If, due to circumstances beyond the Promoter's control, the Promoter is unable to provide the stated prize, the Promoter reserves the right to award an alternative prize of equal or greater value. This is subject to written approval from the relevant regulatory authorities. </li>\n<li>If this competition is not capable of being conducted as reasonably anticipated due to any reason beyond the control of the Promoter, the Promoter reserves the right, in its sole discretion, to the fullest extent permitted by law to modify, suspend, terminate or cancel the competition, as appropriate. This is subject to written approval from the relevant regulatory authorities. </li>\n<li>These conditions of entry are governed by the laws of New South Wales, Australia. </li>\nAny questions please call the Promoter on 1300 886 123. Permit numbers: NSW LTPS/16/08832</li>\n<li>This offer is made and executed by RT Health.</li>\n</ol>"
+    },
+    {
+      "fund_code": "ntf",
+      "offer_type": "offer",
+      "cover_types": "2",
+      "start_date": "2017-05-08",
+      "end_date": "2017-06-30",
+      "name": "",
+      "short_description": "Choose either '6 weeks free' or '4 weeks free with 2 and 6 months waived'",
+      "full_description" : "",
+      "image_url": "",
+      "terms": "<h3>New member offer – One Month free plus 2 and 6 month waits waived</h3>\n<ol>\n\t<li>Offer commences 12.00am, Monday 8 May 2017 and closes 11.59pm (AEDT), Friday 30 June 2017,\nand may be extended.</li>\n\t<li>This offer is only available to new members who satisfy the eligibility criteria of Teachers Health,\nwhose membership application is received by Teachers Health from 8 May 2017 and closes\n11.59pm (AEDT), 30 June 2017.</li>\n\t<li>The new member must select <strong>Hospital and Extras cover</strong>, or <strong>a combined cover</strong>, in order to be\neligible to receive this offer.</li>\n\t<li>The new member must provide the promotion code <strong>\"ONE\"</strong> when joining online, over the phone or\nwith a Business Development officer.</li>\n\t<li>The new member must select a Direct Debit payment plan.</li>\n\t<li><strong>One (1) month’s free cover</strong> is applied to the <strong>second month</strong> of the new membership, upon\nsuccessful receipt of the new member’s first contribution payment.</li>\n\t<li>Only the two and six month waiting periods on Extras services will be waived for new members, as\npart of this promotion.</li>\n\t<li>The offer <strong>does not</strong> apply to stand-alone Hospital, Extras or Ambulance only policies.</li>\n\t<li>The offer <strong>does not</strong> apply to policy upgrades, or when a spouse or dependant is added to an\nexisting Teachers Health policy.</li>\n\t<li>This offer is only available to a new Teachers Health policyholder who has not been a\npaying/financial member of Teachers Health or UniHealth in the past four (4) months.</li>\n\t<li>The offer is not available to new members who have received an incentive offer from Teachers\nHealth or UniHealth within the last 12 months.</li>\n\t<li>Terms and conditions are subject to change without notice.</li>\n</ol>\n<hr />\n<h3>New member offer – Six weeks free </h3>\n<ol>\n\t<li>Offer commences 12.00am, Monday 8 May 2017 and closes 11.59pm (AEDT), Friday 30 June\n2017, and may be extended.</li>\n\t<li>This offer is only available to new members who satisfy the eligibility criteria of Teachers Health,\nwhose membership application is received by Teachers Health from 8 May 2017 and closes\n11.59pm (AEDT), 30 June 2017.</li>\n\t<li>The new member must select <strong>Hospital and Extras cover</strong>, or <strong>a combined cover</strong>, in order to be\neligible to receive this offer.</li>\n\t<li>The new member must provide the promotion code <strong>\"SIX\"</strong> when joining online, over the phone\nor with a Business Development officer.</li>\n\t<li>The new member must select a Direct Debit payment plan.</li>\n\t<li><strong>Six (6) weeks free cover</strong> is applied to the <strong>second month</strong> of the new membership, upon\nsuccessful receipt of the new member’s first contribution payment.</li>\n\t<li>The offer <strong>does not</strong> apply to stand-alone Hospital, Extras or Ambulance only policies.</li>\n\t<li>The offer <strong>does not</strong> apply to policy upgrades, or when a spouse or dependant is added to an\nexisting Teachers Health policy.</li>\n\t<li>This offer is only available to a new Teachers Health policyholder who has not been a\npaying/financial member of Teachers Health or UniHealth in the past four (4) months.</li>\n\t<li>The offer is not available to new members who have received an incentive offer from Teachers\nHealth or UniHealth within the last 12 months.</li>\n\t<li>Terms and conditions are subject to change without notice.</li>\n</ol>\n<p>\n\tThese offers are made and executed Teachers Health.\n</p>\n<p>If you have further questions regarding these terms and conditions,\nplease contact Teachers Health.</p>"
+    },
+    {
+      "fund_code": "qtu",
+      "offer_type": "offer",
+      "cover_types": "0,1,2",
+      "start_date": "2017-06-12",
+      "end_date": "2017-08-31",
+      "name": "",
+      "short_description": "Get 1 month free cover on any level of cover",
+      "full_description" : "",
+      "image_url": "",
+      "terms": "<ul>\n\t<li>Offer available for applications received between 12 June and 31 August 2017</li>\n\t<li>Eligibility criteria apply.</li>\n\t<li>For new members/memberships only.</li>\n\t<li>Waiting periods may apply.</li>\n\t<li>Only available via direct debit.</li>\n\t<li>Not available in conjunction with any other offer.</li>\n</ul>\n<p>\n\tThis offer is made and executed by TUH.\n</p>"
     }
   ]
 }
