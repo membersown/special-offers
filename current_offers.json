@@ -95,6 +95,18 @@
       "full_description" : "",
       "image_url": "",
       "terms": "<ul>\n\t<li>Offer available for applications received between 12 June and 31 August 2017</li>\n\t<li>Eligibility criteria apply.</li>\n\t<li>For new members/memberships only.</li>\n\t<li>Waiting periods may apply.</li>\n\t<li>Only available via direct debit.</li>\n\t<li>Not available in conjunction with any other offer.</li>\n</ul>\n<p>\n\tThis offer is made and executed by TUH.\n</p>"
+    },
+    {
+      "fund_code": "sps",
+      "offer_type": "offer",
+      "cover_types": "1,2",
+      "start_date": "2017-07-06",
+      "end_date": "2017-07-31",
+      "name": "",
+      "short_description": "2 and 6 month extras waiting periods waived",
+      "full_description" : "",
+      "image_url": "",
+      "terms": "<p>\n\tAvailable only for new members.\n</p>\n<p>\n\tThis offer is made and executed by Health Partners.\n</p>"
     }
   ]
 }
