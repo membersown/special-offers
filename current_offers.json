@@ -71,6 +71,42 @@
       "full_description" : "",
       "image_url": "",
       "terms": "<h3>New member offer – Six weeks free </h3>\n<ol>\n\t<li>Offer commences 12.00am, Monday 8 May 2017 and closes 11.59pm (AEDT), Friday 30 June\n2017, and may be extended.</li>\n\t<li>This offer is only available to new members who satisfy the eligibility criteria of UniHealth,\nwhose membership application is received by UniHealth from 8 May 2017 and closes\n11.59pm (AEDT), 30 June 2017.</li>\n\t<li>The new member must select <strong>Hospital and Extras cover</strong>, or <strong>a combined cover</strong>, in order to be\neligible to receive this offer.</li>\n\t<li>The new member must provide the promotion code <strong>\"SIX\"</strong> when joining online, over the phone\nor with a Business Development officer.</li>\n\t<li>The new member must select a Direct Debit payment plan.</li>\n\t<li><strong>Six (6) weeks free cover</strong> is applied to the <strong>second month</strong> of the new membership, upon\nsuccessful receipt of the new member’s first contribution payment.</li>\n\t<li>The offer <strong>does not</strong> apply to stand-alone Hospital, Extras or Ambulance only policies.</li>\n\t<li>The offer <strong>does not</strong> apply to policy upgrades, or when a spouse or dependant is added to an\nexisting UniHealth policy.</li>\n\t<li>This offer is only available to a new UniHealth policyholder who has not been a\npaying/financial member of Uni Health or UniHealth in the past four (4) months.</li>\n\t<li>The offer is not available to new members who have received an incentive offer from Teachers\nHealth or UniHealth within the last 12 months.</li>\n\t<li>Terms and conditions are subject to change without notice.</li>\n</ol>\n<p>\n\tThese offers are made and executed UniHealth.\n</p>\n<p>If you have further questions regarding these terms and conditions,\nplease contact UniHealth.</p>"
+    },
+    {
+      "fund_code": "sps",
+      "offer_type": "offer",
+      "cover_types": "0",
+      "start_date": "2017-08-01",
+      "end_date": "2017-08-31",
+      "name": "",
+      "short_description": "Get a $100 gift card",
+      "full_description" : "",
+      "image_url": "",
+      "terms": "<ul>\n\t<li>Available only for new members</li>\n\t<li>Gift card will be sent out after policy have been financial for 30 days</li>\n</ul>\n<p>\n\tThis offer is made and executed by Health Partners.\n</p>"
+    },
+    {
+      "fund_code": "sps",
+      "offer_type": "offer",
+      "cover_types": "1",
+      "start_date": "2017-08-01",
+      "end_date": "2017-08-31",
+      "name": "",
+      "short_description": "Skip the 2 month wait on 2 extras services",
+      "full_description" : "",
+      "image_url": "",
+      "terms": "<p>\n\tAvailable only for new members\n</p>\n<p>\n\tThis offer is made and executed by Health Partners.\n</p>"
+    },
+    {
+      "fund_code": "sps",
+      "offer_type": "offer",
+      "cover_types": "2",
+      "start_date": "2017-08-01",
+      "end_date": "2017-08-31",
+      "name": "",
+      "short_description": "1 month free & skip the 2 month wait on 2 extras services",
+      "full_description" : "",
+      "image_url": "",
+      "terms": "<ul>\n\t<li>Available only for new members</li>\n\t<li>1 month free applied after the first month has been paid</li>\n</ul>\n<p>\n\tThis offer is made and executed by Health Partners.\n</p>"
     }
   ]
 }
