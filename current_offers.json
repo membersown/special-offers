@@ -1,6 +1,18 @@
 {
   "current_offers": [
     {
+      "fund_code": "auf",
+      "offer_type": "offer",
+      "cover_types": "2",
+      "start_date": "2017-09-18",
+      "end_date": "2017-11-30",
+      "name": "",
+      "short_description": "2 and 6 month extras waits waived plus a gift card",
+      "full_description" : "",
+      "image_url": "",
+      "terms": "<p>All two month waiting periods and the optical six month waiting periods are waived.</p>\n<ul>\n\t<li>Singles policies get a $100 gift card</li>\n\t<li>Couples and family policies get a $200 gift card</li>\n\t<li>Limit one gift card per membership</li>\n\t<li>Cards will be issued after the policy holder has held cover for at least 30 days</li>\n\t<li>Cards will take 6-8 weeks after the date of joining to be delivered</li>\n\t<li>Offer available to new members, being those who have not previously held Australian Unity health cover, and who purchase hospital and extras cover from Australian Unity between 18 September and 30 November 2017</li>\n\t<li>Does not apply to Hospital only or Extras only covers</li>\n\t<li>Not available with Overseas Visitors Cover</li>\n\t<li>This offer is made and executed by Australian Unity.</li>\n</ul>\n"
+    },
+    {
       "fund_code": "frank",
       "offer_type": "offer",
       "cover_types": "2",
