@@ -86,3 +86,43 @@
     }
   ]
 }
+
+
+
+
+{
+  "fund_code": "sps",
+  "offer_type": "offer",
+  "cover_types": "0",
+  "start_date": "2017-10-01",
+  "end_date": "2017-10-31",
+  "name": "",
+  "short_description": "1 month free",
+  "full_description" : "",
+  "image_url": "",
+  "terms": "<ul>\n\t<li>Available only for new members</li>\n\t<li>1 month free applied after the first month has been paid</li>\n</ul>\n<p>\n\tThis offer is made and executed by Health Partners.\n</p>"
+},
+{
+  "fund_code": "sps",
+  "offer_type": "offer",
+  "cover_types": "1",
+  "start_date": "2017-10-01",
+  "end_date": "2017-10-31",
+  "name": "",
+  "short_description": "Skip the 2 month wait on 2 extras services",
+  "full_description" : "",
+  "image_url": "",
+  "terms": "<ul>\n\t<li>Available only for new members</li>\n\t<li>1 month free applied after the first month has been paid</li>\n</ul>\n<p>\n\tThis offer is made and executed by Health Partners.\n</p>"
+},
+{
+  "fund_code": "sps",
+  "offer_type": "offer",
+  "cover_types": "2",
+  "start_date": "2017-10-01",
+  "end_date": "2017-10-31",
+  "name": "",
+  "short_description": "1 month free & skip the 2 month wait on 2 extras services",
+  "full_description" : "",
+  "image_url": "",
+  "terms": "<ul>\n\t<li>Available only for new members</li>\n\t<li>1 month free applied after the first month has been paid</li>\n</ul>\n<p>\n\tThis offer is made and executed by Health Partners.\n</p>"
+},
