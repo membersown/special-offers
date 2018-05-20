@@ -1,6 +1,18 @@
 {
   "current_offers": [
     {
+      "fund_code": "auf",
+      "offer_type": "offer",
+      "cover_types": "2",
+      "start_date": "2018-05-03",
+      "end_date": "2018-05-31",
+      "name": "",
+      "short_description": "Join on a combined cover and skip the 2 and 6 months wait on extras",
+      "full_description" : "",
+      "image_url": "",
+      "terms": "<h3>Claim Immediately Offer (May 2018) Terms and Conditions:<\/h3>\r\n<p>1. This promotion is only available to:<\/p>\r\n<ul>\r\n\t<li>\r\n\ta. Members who purchase Australian Unity hospital and extras cover:\r\n\t<\/li>\r\n\t\t<ul>\r\n\t\t\t<li>i. through the Australian Unity call centre\/website, or aggregator or comparator call centre\/website;<\/li>\r\n\t\t\t<li>ii. between 3 May 2018 and 31 May 2018, where the policies purchased have a commencement date between 3 May 2018 and 31 May 2018; and<\/li>\r\n\t\t<\/ul>\r\n\t<li>\r\n\tb. New members on new memberships (see further condition 2 below).\r\n\t<\/li>\r\n<\/ul>\r\n<p>2. This promotion is not available:<\/p>\r\n<ul>\r\n\t<li>a. to members who have held health cover with Australian Unity in the six months prior to when they purchase hospital and extras cover as part of this promotion;<\/li>\r\n\t<li>b. to new members who purchase extras only cover, hospital only cover or Overseas Visitors Cover;<\/li>\r\n\t<li>c. to Australian Unity staff; or<\/li>\r\n\t<li>d. in conjunction with any other retail offer or promotion being run by Australian Unity at the same time<\/li>\r\n<\/ul>\r\n<p>3. After satisfying condition 1 above, Australian Unity will waive all optical extras waiting periods and all 2-month extras waiting periods for extras covers purchased as part of this promotion. Unless specified by Australian Unity, all other waiting periods for all products still apply.<\/p>\r\n<p>4. This promotion can be altered or withdrawn at any time by Australian Unity and Australian Unity reserves the right to change these offer conditions at any time without notice.<\/p>\r\n<p>5. Australian Unity may request further information from any purchaser at its discretion in order to determine whether the purchaser is eligible for this promotion.<\/p>\r\n<p>This offer is made and executed by Australian Unity.<\/p>"
+    },
+    {
       "fund_code": "lhm",
       "offer_type": "offer",
       "cover_types": "0,2",
