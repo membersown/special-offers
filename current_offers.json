@@ -3,14 +3,15 @@
     {
       "fund_code": "auf",
       "offer_type": "offer",
-      "cover_types": "2",
-      "start_date": "2018-05-03",
-      "end_date": "2018-05-31",
+      "cover_types": "0.1,2",
+      "start_date": "2018-06-01",
+      "end_date": "2018-06-30",
       "name": "",
-      "short_description": "Join on a combined cover and skip the 2 and 6 months wait on extras",
+      "short_description": "7.5% discount to New to PHI members",
       "full_description" : "",
       "image_url": "",
-      "terms": "<h3>Claim Immediately Offer (May 2018) Terms and Conditions:<\/h3>\r\n<p>1. This promotion is only available to:<\/p>\r\n<ul>\r\n\t<li>\r\n\ta. Members who purchase Australian Unity hospital and extras cover:\r\n\t<\/li>\r\n\t\t<ul>\r\n\t\t\t<li>i. through the Australian Unity call centre\/website, or aggregator or comparator call centre\/website;<\/li>\r\n\t\t\t<li>ii. between 3 May 2018 and 31 May 2018, where the policies purchased have a commencement date between 3 May 2018 and 31 May 2018; and<\/li>\r\n\t\t<\/ul>\r\n\t<li>\r\n\tb. New members on new memberships (see further condition 2 below).\r\n\t<\/li>\r\n<\/ul>\r\n<p>2. This promotion is not available:<\/p>\r\n<ul>\r\n\t<li>a. to members who have held health cover with Australian Unity in the six months prior to when they purchase hospital and extras cover as part of this promotion;<\/li>\r\n\t<li>b. to new members who purchase extras only cover, hospital only cover or Overseas Visitors Cover;<\/li>\r\n\t<li>c. to Australian Unity staff; or<\/li>\r\n\t<li>d. in conjunction with any other retail offer or promotion being run by Australian Unity at the same time<\/li>\r\n<\/ul>\r\n<p>3. After satisfying condition 1 above, Australian Unity will waive all optical extras waiting periods and all 2-month extras waiting periods for extras covers purchased as part of this promotion. Unless specified by Australian Unity, all other waiting periods for all products still apply.<\/p>\r\n<p>4. This promotion can be altered or withdrawn at any time by Australian Unity and Australian Unity reserves the right to change these offer conditions at any time without notice.<\/p>\r\n<p>5. Australian Unity may request further information from any purchaser at its discretion in order to determine whether the purchaser is eligible for this promotion.<\/p>\r\n<p>This offer is made and executed by Australian Unity.<\/p>"
+      "new_to_phi_only": true,
+      "terms": "<h3>June 2018 New To Category Promotion - Terms and Conditions<\/h3>\r\n<ul>\r\n  <li>The 7.5% discount (Discount) is only available to members who:<\/li>\r\n    <ul>\r\n      <li>have not held Private Health Insurance with any fund in the 2 years prior to joining Australian Unity in June 2018;<\/li>\r\n      <li>purchase and commence cover under either an extras only policy, hospital only policy or hospital and extras (combined) policy with Australian Unity through one of Australian Unity\u2019s aggregators, brokers or comparators between 1st\u00A0June to 30th\u00A0June, 2018; and<\/li>\r\n      <li>pay the relevant premium by direct debit.<\/li>\r\n    <\/ul>\r\n  <li>For the avoidance of doubt the Discount:<\/li>\r\n  <ul>\r\n      <li>includes all retail discounts;<\/li>\r\n      <li>cannot be used in conjunction with any other offer or discount(s);<\/li>\r\n      <li>is not available for members who purchase Overseas Visitor Cover (OVC); and<\/li>\r\n      <li>applies for the same duration that the member continuously holds a membership purchased in accordance with condition 1 above regardless of the level of cover they maintain (e.g. the member may switch between Australian Unity products (but not to an OVC product) and still be eligible to receive the Discount).<\/li>\r\n  <\/ul>\r\n  <li>This promotion can be altered or withdrawn at any time by Australian Unity and Australian Unity reserves the right to change these offer conditions at any time without notice.<\/li>\r\n  <li>Australian Unity reserves the right to\u00A0request further information from any purchaser at its discretion in order to determine whether the purchaser is eligible for the Discount.<\/li>\r\n<\/ul>\r\n<p>This offer is made and executed by Australian Unity.<\/p>\r\n"
     },
     {
       "fund_code": "lhm",
@@ -39,14 +40,14 @@
     {
       "fund_code": "sps",
       "offer_type": "offer",
-      "cover_types": "2",
-      "start_date": "2018-05-01",
-      "end_date": "2018-05-31",
+      "cover_types": "0,1,2",
+      "start_date": "2018-06-01",
+      "end_date": "2018-06-30",
       "name": "",
-      "short_description": "Get 1 month free on combined cover",
+      "short_description": "No waits on General Dental, Optical and Physio",
       "full_description" : "",
       "image_url": "",
-      "terms": "<p>Must pay the first month before the second month is applied for free.</p>\n<p>Only available to new members.</p>\n<p>This offer is made and executed by Health Partners.</p>"
+      "terms": "<p>This offer is made and executed by Health Partners.</p>"
     },
     {
       "fund_code": "qtu",
