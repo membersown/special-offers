@@ -40,7 +40,7 @@
     {
       "fund_code": "sps",
       "offer_type": "offer",
-      "cover_types": "0,1,2",
+      "cover_types": "1,2",
       "start_date": "2018-06-01",
       "end_date": "2018-06-30",
       "name": "",
